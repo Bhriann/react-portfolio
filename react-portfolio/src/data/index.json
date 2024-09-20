@@ -1,0 +1,27 @@
+{
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/Apocalypse Manga Jacket.JPG",
+        "title": "Apocalypse Manga Jacket",
+        "description": "A manga jacket/sleeve designed to resemble the book-like character 'Apocalypse' himself from the 'Undead Unluck' manga by Yoshifumi Tozuka.",
+        "link": "Learn More"
+        
+      },
+      {
+        "id": "2",
+        "src": "./img/Yatora Yaguchi.HEIC",
+        "title": "Yatora in Blue",
+        "description": "An all blue colored artwork of the main character from the 'Blue Period' manga by Tsubasa Yamaguchi.",
+        "link": "Learn More"
+      },
+      {
+        "id": "3",
+        "src": "./img/Laurent and Makoto.jpg",
+        "title": "The Great Pretenders",
+        "description": "A digital artwork of the two main characters from the Netflix original anime titled 'The Great Pretender'",
+        "link": "Learn More"
+      }
+    ]
+  }
+  
